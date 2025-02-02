@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ronald Urrutia Vera 👋
 
-Soy desarrollador web, aunque aún estoy en formación. Actualmente me encuentro capacitandome en desarrollo web fullstack, y pronto podrás ver mis trabajos.
+[![Axzyz GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzyz)](https://github.com/Axzyz/github-readme-stats)
 <!--
 **Axzyz/Axzyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
