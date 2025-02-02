@@ -1,4 +1,4 @@
-# ¡Hola! Soy Axzyz 👋
+# ¡Hola! Soy Axzyz 👋👨‍💻
 
 ![banner_1](https://github.com/user-attachments/assets/ffe18a9c-6414-47b4-a816-ce42aa0f019f)
 
