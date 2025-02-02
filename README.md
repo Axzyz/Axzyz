@@ -1,4 +1,6 @@
-# ¡Hola! Soy Ronald Urrutia Vera 👋
+# ¡Hola! Soy Axzyz 👋
+
+![banner_1](https://github.com/user-attachments/assets/ffe18a9c-6414-47b4-a816-ce42aa0f019f)
 
 [![Axzyz GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzyz&show_icons=true&theme=radical)](https://github.com/Axzyz/github-readme-stats)
 
